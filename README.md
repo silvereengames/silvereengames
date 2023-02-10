@@ -46,4 +46,4 @@
 
 <h2 style="text-align: center">Contact</h2>
 
-[![Gmail - Contact!](https://img.shields.io/badge/Gmail-Contact!-fbbc05?style=for-the-badge)](https://mailto:silvereennetwork@gmail.com)
+[![Gmail - Contact!](https://img.shields.io/badge/Gmail-Contact!-fbbc05?style=for-the-badge)](https://mailto:silvereen@silvereen.net)

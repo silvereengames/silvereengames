@@ -1,7 +1,7 @@
 
 <p style="text-align: center;><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F72F&center=true&width=435&lines=Hello!+I+am+Silvereen;Web+Developer;Codes+in+HTML%2C+CSS%2C+and+JS;Developer+of+Silvereen+Network;Also+created+Moonlight;Check+me+out!+https%3A%2F%2Fsilvereen.net" alt="Typing SVG" /></a></p>
 <h2 style="text-align: center">About me</h2>
-<p>I am a young programmer, web developer, and game developer. I love to code for fun and someties get paid for it! I am the head developer and founder of Silvereen Network and Moonlight. I know many different programming languages such as html, css, js, .py, some php, and more. Im also a developer Kazwire, 3kh0 and more.
+<p>I am a young programmer, web developer, and game developer. I love to code for fun and someties get paid for it! I am the head developer and founder of Silvereen Network and Moonlight. I know many different programming languages such as html, css, js, .py, some php, and more. Im also a developer Moonlight, Kazwire and more.
 <h4>I use</h4>
 <p>Programming language</p>
 

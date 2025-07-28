@@ -4,7 +4,7 @@ Hi 👋 My name is Silvereen
 Full stack developer
 --------------------
 
-I am a full stack front end and back end developer, sys admin, database manager, and freelancer. I've been programming front end since around 2019 and backend systems primarly in Node since around 2021. In that time I have created and run many websites and services large and small such as Moonlight and BilligerHost.
+I am a full stack front end and back end developer, sys admin, database manager, and freelancer. I've been programming front end since around 2019 and backend systems primarly in Node since around 2021. In that time I have created and run many websites and services large and small such as Moonlight, Free Minecraft Host, and BilligerHost. I am the founder and CEO of <a href="https://silvereen.net">Silvereen Games</a>
 
 *   🌍  I'm based in Florida
 *   🖥️  See my portfolio at [silvereen.dev](http://silvereen.dev)

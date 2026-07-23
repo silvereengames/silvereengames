@@ -30,3 +30,4 @@ I am a full stack front end and back end developer, sys admin, database manager,
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/silvereen"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 </ul>
+-# I wish to keep my identity hidden online. If you find any personal info about me online, kindly refain from sharing it. Thanks! 
